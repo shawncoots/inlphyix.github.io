@@ -255,7 +255,7 @@ footer {
   background: linear-gradient(to bottom, #ffffff 0%, #c0c0c0 100%);
   border: 3px outset #ffffff;
   padding: 10px 20px;
-  font-family: "Comic Sans MS", cursive;
+  font-family: "Comic Relief", system-ui;
   font-weight: bold;
   font-size: 1.2em;
   cursor: pointer;
